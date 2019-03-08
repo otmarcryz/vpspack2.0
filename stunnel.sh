@@ -76,5 +76,4 @@ echo -e "\033[1;31mReinicie su VPS (Opcional) - sudo reboot"
 sleep 2
 echo -e "\033[1;33m- - ->>Blog \033[01;34mhttps://tekaxenlinea.blogspot.com/"
 echo -e "\033[1;33m- - ->>Creditos \033[01;34mNetFree Mx"
-sleep 1
-rm install
+sleep 2
