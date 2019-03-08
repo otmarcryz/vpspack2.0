@@ -7,6 +7,7 @@ VPS Manager es un script que te servirá para configurar y administrar un VPS (S
 Vps Manager es una version mejorada del  Script administrativo VPSPack (Version Original). 
 
 En este script se han añadido múltiples funciones y herramientas para hacer completamente funcional un VPS, lo cual la versión original era muy limitadas en las funciones ya que solo contenía comandos básicos.
+
 Este Script lo estoy proporcionando de manera gratuita, si te gusto por favor dejanos un comentario positivo.
 
 Por favor no olvides visitar este blog para futuras actualizaciones.
@@ -16,20 +17,20 @@ Por favor no olvides visitar este blog para futuras actualizaciones.
 Este Scrip te ayudara a configurar y administrar tu VPS
 Esta basado en el Script VPSPack, sin embargo ha sido traducido y se ha añadido algunas funciones y mejoras que no tenia la version original como:
 
-Traducido al Español
-Menu mas Colorido
-Herramientas Añadidas
-Opciones del Script
-Crear, Eliminar y Reconfigurar Usuarios
-Añadido BadVPN (Necesario para los Juegos Online y llamadas del whatsapp, etc)
-Añadido funciones de Shadowsocks (Experimental)
-Añadido la opcion de Bloqueo Torrent (Solo Usuarios Avanzados)
-Monitoreo de Conexiones
-Respaldo de Usuarios
-Opcion para agregar Banner
-Detalles del Sistema
-Ver Puertos Activos
-Stunnel4 (Instalacion del Certificado SSL)
+* Traducido al Español
+* Menu mas Colorido
+* Herramientas Añadidas
+* Opciones del Script
+* Crear, Eliminar y Reconfigurar Usuarios
+* Añadido BadVPN (Necesario para los Juegos Online y llamadas del whatsapp, etc)
+* Añadido funciones de Shadowsocks (Experimental)
+* Añadido la opcion de Bloqueo Torrent (Solo Usuarios Avanzados)
+* Monitoreo de Conexiones
+* Respaldo de Usuarios
+* Opcion para agregar Banner
+* Detalles del Sistema
+* Ver Puertos Activos
+* Stunnel4 (Instalacion del Certificado SSL)
 etc.
 
 # Puertos Instalados
