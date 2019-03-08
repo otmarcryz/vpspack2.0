@@ -33,9 +33,10 @@ Stunnel4 (Instalacion del Certificado SSL)
 etc.
 
 # Puertos Instalados
-Ssh 22
-Dropbear 443
-Squid 80, 8080, 3128
+
+* Ssh 22
+* Dropbear 443
+* Squid 80, 8080, 3128
 
 # Instalacion del Scrip
 
@@ -51,6 +52,10 @@ Debian 7 y 8
 
 Visita mi Blog https://tekaxenlinea.blogspot.com
 
-# Facebook: NetFreeMx
+# Facebook: 
 
-# Canal en Youtube https://www.youtube.com/channel/UC954z0sDYNsYkwx4k8TyVaQ
+NetFreeMx
+
+# Canal en Youtube 
+
+https://www.youtube.com/channel/UC954z0sDYNsYkwx4k8TyVaQ
