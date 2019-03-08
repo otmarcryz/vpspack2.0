@@ -46,7 +46,7 @@ apt-get update && apt-get upgrade && apt-get install ca-certificates && wget htt
 
 # Sistemas Operativos Recomendados
 
-Debian 7 y 8
+* Debian 7 y 8
 
 # Redes Sociales, Canal y blog
 
