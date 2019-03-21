@@ -74,6 +74,6 @@ echo -e "\033[1;33m- - - - -> \033[01;34mSU IP HOST:\033[0m $ip"
 sleep 1
 echo -e "\033[1;31mReinicie su VPS (Opcional) - sudo reboot"
 sleep 2
-echo -e "\033[1;33m- - ->>Blog \033[01;34mhttps://tekaxenlinea.blogspot.com/"
-echo -e "\033[1;33m- - ->>Creditos \033[01;34mNetFree Mx"
+echo -e "\033[1;33m- - ->>Blog \033[01;34mhttp://starxnet.xyz"
+echo -e "\033[1;33m- - ->>Creditos \033[01;34mDark2Side"
 sleep 2
